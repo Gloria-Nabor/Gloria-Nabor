@@ -1,6 +1,6 @@
 - 👋 Hello Word! I’m @Gloria-Nabor.
 - 👀 I’m interested in Dev, PM & Digital Mkt.
-- 🌱 I’m currently learning FrontEnd development. ¡Yo soy ONE! 
+- 🌱 I’m currently learning AWS re/start & Backend-End dev. ¡Yo soy AlumniONE! 
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/gloria-nabor/en/
 - https://linktr.ee/gloria_nabor

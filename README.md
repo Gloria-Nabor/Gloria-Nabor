@@ -1,4 +1,4 @@
-- 👋 Hello Word! I’m @Gloria-Nabor.
+- 👋 Hello Word! I’m Gloria Nabor.
 - 👀 I’m interested in Dev, PM & Digital Mkt.
 - 🌱 I’m currently learning AWS re/start & Backend-End dev. ¡Yo soy AlumniONE! 
 - 📫 How to reach me ...
